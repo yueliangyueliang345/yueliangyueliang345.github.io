@@ -1,7 +1,7 @@
 ---
-permalink: /
-title: "partners"
-#excerpt: "partners"
+layout: archive
+title: "Partners"
+permalink: /partners/
 author_profile: true
 redirect_from: 
   - /partners/
