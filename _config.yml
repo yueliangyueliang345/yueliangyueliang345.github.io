@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "China Hainan"
-title                    : "Zhao Caner / personal homepage"
+title                    : "Zhao Caner's personal homepage"
 title_separator          : "-"
 name                     : &name "Zhao Caner"
 description              : &description "personal description"
@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "A student of psychology"
   location         : "China Hainan"
-  employer         : "Red Brick University"
+  employer         : "Hainan Normal University"
   uri              : # URL
   email            : "1329773200@qq.com" 
 
