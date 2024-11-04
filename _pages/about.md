@@ -5,7 +5,7 @@ excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about me/
-  - /about.html
+  - /about me.html
 ---
 
   I'm a third year undergraduate student from [School of Psychology](https://jykxy.hainnu.edu.cn/), [Hainan Normal University](https://www.hainnu.edu.cn/).
