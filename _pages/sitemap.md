@@ -31,8 +31,8 @@ For you robots out there is an [XML version]({{ base_path }}/sitemap.xml) availa
   {% endif %}
 {% endunless %}
 {% for post in collection.docs %}
-#  {% unless collection.output == false or collection.label == "posts" %}
-#  {% include archive-single.html %}
- # {% endunless %}
-#{% endfor %}
-#{% endfor %}
+  {% unless collection.output == false or collection.label == "posts" %}
+  {% include archive-single.html %}
+  {% endunless %}
+{% endfor %}
+{% endfor %}
